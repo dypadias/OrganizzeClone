@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/linearLayout">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/quatro"
+        tools:layout_conversion_absoluteHeight="200dp"
+        tools:layout_conversion_absoluteWidth="200dp"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="166dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Tudo organizado \n no celular ou computador"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_conversion_absoluteHeight="45dp"
+        tools:layout_conversion_absoluteWidth="180dp"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="366dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Use no seu smartphone ou acessando pelo site"
+        android:textSize="18sp"
+        tools:layout_conversion_absoluteHeight="24dp"
+        tools:layout_conversion_absoluteWidth="411dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="412dp" />
+</LinearLayout>
