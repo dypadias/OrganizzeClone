@@ -1,5 +1,6 @@
 # OrganizzeClone
 Uma replicaçãop basica da aplicação organizze
+Organize seu dinheiro em tempo real em uma solução completa, prática e segura, e garanta o controle total das suas finanças.
 
 ### 🛠 Tecnologias
 
