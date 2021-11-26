@@ -27,5 +27,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Diego Matos 👋🏽 Entre em contato!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-de-matos-ab152518a/)](https://www.linkedin.com/in/diegomatos/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-de-matos-ab152518a/)](https://www.linkedin.com/in/diego-de-matos-ab152518a/) 
 [![Gmail Badge](https://img.shields.io/badge/-dpadias24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpadias24@gmail.com)](mailto:dpadias24@gmail.com)
